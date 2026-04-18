@@ -40,9 +40,8 @@
             </a>
         </div>
         <div class="social_media_platforms">
-            <i class="fa-brands fa-facebook" style="color: #000000;"></i>
-            <i class="fa-brands fa-x-twitter" style="color: #000000;"></i>
-            <i class="fa-brands fa-square-instagram" style="color: #000000;"></i>
+            <a href="https://www.facebook.com/profile.php?id=61577498152182"><i class="fa-brands fa-facebook" style="color: #000000;"></i></a>
+            <a href="https://www.instagram.com/devoteevivah?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fa-brands fa-square-instagram" style="color: #000000;"></i></a>
         </div>
         <div class="partition">
             <div class="partitions"></div>
@@ -52,9 +51,9 @@
                 <p>© 2025 DevoteeVivah. All rights reserved.</p>
             </div>
             <div class="terms_privacy">
-                <p><a href="">Terms of Service</a></p>
+                <p><a href="./terms.php">Terms of Service</a></p>
                 <p>|</p>
-                <p><a href="">Privacy Policy</a></p>
+                <p><a href="./privacy.php">Privacy Policy</a></p>
             </div>
         </div>
     </section>
